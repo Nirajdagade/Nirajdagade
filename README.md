@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Nirajdagade
-- 👀 I’m interested in Coding
+- 👀 I’m interested in Programming
 - 🌱 I’m currently learning Programming languages like Python, Java, or C++, Datastructure Databases and SQL,
 -  Web development (HTML, CSS, JavaScript), Operating systems.
 - 💞️ I’m looking to collaborate on IT projects, hackathons, or research initiatives that align with my interests
